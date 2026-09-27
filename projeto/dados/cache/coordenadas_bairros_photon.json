@@ -1,0 +1,534 @@
+{
+  "centro": {
+    "latitude": -22.412349,
+    "longitude": -47.558201,
+    "consulta": "Rua 1, Centro, Rio Claro, São Paulo, Brasil",
+    "resultado_osm": "Centro Médico 1, Rua 2, Centro, Rio Claro",
+    "fonte": "OpenStreetMap/Photon"
+  },
+  "bom retiro": {
+    "latitude": -22.40678,
+    "longitude": -47.601431,
+    "consulta": "Rua 4 JW, Bom Retiro, Rio Claro, São Paulo, Brasil",
+    "resultado_osm": "Rua 4 JW, Chácara Bom Retiro, Rio Claro",
+    "fonte": "OpenStreetMap/Photon"
+  },
+  "alto do santana": {
+    "latitude": -22.401889,
+    "longitude": -47.572205,
+    "consulta": "Rua 7, Alto do Santana, Rio Claro, São Paulo, Brasil",
+    "resultado_osm": "Igreja do Nazareno, Rua Samambaia, Santana, Rio Claro",
+    "fonte": "OpenStreetMap/Photon"
+  },
+  "centro (assistencia)": {
+    "latitude": -22.498511,
+    "longitude": -47.586779,
+    "consulta": "Estrada Fazenda Santa Rosa, Centro (Assistência), Rio Claro, São Paulo, Brasil",
+    "resultado_osm": "Antiga Estrada Santa Rosa, Assistência, Rio Claro",
+    "fonte": "OpenStreetMap/Photon"
+  },
+  "chacara luza": {
+    "latitude": -22.431619,
+    "longitude": -47.573821,
+    "consulta": "Chácara Luza, Rio Claro, São Paulo, Brasil",
+    "resultado_osm": "Chácara Luza, Dona Angela, Rio Claro",
+    "fonte": "OpenStreetMap/Photon"
+  },
+  "cidade jardim": {
+    "latitude": -22.419103,
+    "longitude": -47.554438,
+    "consulta": "Rua 1 CJ, Cidade Jardim, Rio Claro, São Paulo, Brasil",
+    "resultado_osm": "Edificio Cidade Jardim, Rua Um Cj, Saúde, Rio Claro",
+    "fonte": "OpenStreetMap/Photon"
+  },
+  "cidade nova": {
+    "latitude": -22.404246,
+    "longitude": -47.553599,
+    "consulta": "Avenida 8 A, Cidade Nova, Rio Claro, São Paulo, Brasil",
+    "resultado_osm": "Avenida Oito A, Cidade Nova, Rio Claro",
+    "fonte": "OpenStreetMap/Photon"
+  },
+  "cidade claret": {
+    "latitude": -22.413562,
+    "longitude": -47.572781,
+    "consulta": "Cidade Claret, Rio Claro, São Paulo, Brasil",
+    "resultado_osm": "Cidade Claret, Jardim Centenário, Rio Claro",
+    "fonte": "OpenStreetMap/Photon"
+  },
+  "consolacao": {
+    "latitude": -22.418922,
+    "longitude": -47.571575,
+    "consulta": "Rua 11, Consolação, Rio Claro, São Paulo, Brasil",
+    "resultado_osm": "Consolação, Dona Angela, Rio Claro",
+    "fonte": "OpenStreetMap/Photon"
+  },
+  "distrito industrial": {
+    "latitude": -22.351128,
+    "longitude": -47.549366,
+    "consulta": "Avenida Brasil, Distrito Industrial, Rio Claro, São Paulo, Brasil",
+    "resultado_osm": "Avenida Brasil, Distrito Indústrial, Rio Claro",
+    "fonte": "OpenStreetMap/Photon"
+  },
+  "conjunto residencial vila verde": {
+    "latitude": -22.375809,
+    "longitude": -47.544228,
+    "consulta": "Conjunto Residencial Vila Verde, Rio Claro, São Paulo, Brasil",
+    "resultado_osm": "Conjunto Residencial Vila Verde, Parque Mãe Preta, Rio Claro",
+    "fonte": "OpenStreetMap/Photon"
+  },
+  "conjunto habitacional de interesse social rio claro h": {
+    "latitude": -22.379639,
+    "longitude": -47.552491,
+    "consulta": "Conjunto Habitacional de Interesse Social Rio Claro H, Rio Claro, São Paulo, Brasil",
+    "resultado_osm": "Escola de futebol - 9 de Julho, Rua Seis JA, Distrito Indústrial, Rio Claro",
+    "fonte": "OpenStreetMap/Photon"
+  },
+  "jardim anhanguera": {
+    "latitude": -22.440966,
+    "longitude": -47.564691,
+    "consulta": "Avenida Marginal 1, Jardim Anhangüera, Rio Claro, São Paulo, Brasil",
+    "resultado_osm": "Avenida Marginal Anhanguera, Rio Claro, Rio Claro",
+    "fonte": "OpenStreetMap/Photon"
+  },
+  "estadio": {
+    "latitude": -22.424569,
+    "longitude": -47.564838,
+    "consulta": "Estádio, Rio Claro, São Paulo, Brasil",
+    "resultado_osm": "Bairro do Estádio, Dona Angela, Rio Claro",
+    "fonte": "OpenStreetMap/Photon"
+  },
+  "jardim bela vista": {
+    "latitude": -22.397969,
+    "longitude": -47.577127,
+    "consulta": "Rua 15, Jardim Bela Vista, Rio Claro, São Paulo, Brasil",
+    "resultado_osm": "Rua Quinze, Jardim  Bela Vista, Rio Claro",
+    "fonte": "OpenStreetMap/Photon"
+  },
+  "jardim azul": {
+    "latitude": -22.384617,
+    "longitude": -47.577154,
+    "consulta": "Jardim Azul, Rio Claro, São Paulo, Brasil",
+    "resultado_osm": "Jardim Azul, Jardim Panorama, Rio Claro",
+    "fonte": "OpenStreetMap/Photon"
+  },
+  "jardim bom sucesso": {
+    "latitude": -22.404263,
+    "longitude": -47.606214,
+    "consulta": "Rua 14 JW, Jardim Bom Sucesso, Rio Claro, São Paulo, Brasil",
+    "resultado_osm": "Centro de Referência de Assistência Social Bom Sucesso, Rua 5 JW, Bom Retiro, Rio Claro",
+    "fonte": "OpenStreetMap/Photon"
+  },
+  "jardim centenario": {
+    "latitude": -22.41669,
+    "longitude": -47.587278,
+    "consulta": "Avenida 8 JC, Jardim Centenário, Rio Claro, São Paulo, Brasil",
+    "resultado_osm": "Avenida Oito A Jc, Jardim Centenário, Rio Claro",
+    "fonte": "OpenStreetMap/Photon"
+  },
+  "jardim cherveson": {
+    "latitude": -22.382809,
+    "longitude": -47.574149,
+    "consulta": "Rua M 17A, Jardim Cherveson, Rio Claro, São Paulo, Brasil",
+    "resultado_osm": "Cherveson, Rua 6, Santana, Rio Claro",
+    "fonte": "OpenStreetMap/Photon"
+  },
+  "jardim boa vista": {
+    "latitude": -22.380582,
+    "longitude": -47.587122,
+    "consulta": "Jardim Boa Vista, Rio Claro, São Paulo, Brasil",
+    "resultado_osm": "Jardim Boa Vista, Jardim Panorama, Rio Claro",
+    "fonte": "OpenStreetMap/Photon"
+  },
+  "jardim dona regina picelli": {
+    "latitude": -22.368338,
+    "longitude": -47.570862,
+    "consulta": "Rua do Sobrado, Jardim Dona Regina Picelli, Rio Claro, São Paulo, Brasil",
+    "resultado_osm": "Jardim Dona Regina Picelli, Distrito Indústrial, Rio Claro",
+    "fonte": "OpenStreetMap/Photon"
+  },
+  "jardim do horto": {
+    "latitude": -22.428846,
+    "longitude": -47.551725,
+    "consulta": "Rodovia Constantine Peruchi, Jardim do Horto, Rio Claro, São Paulo, Brasil",
+    "resultado_osm": "Vila do Horto Residencial, Rodovia Constante Peruchi, Jardim do Horto, Rio Claro",
+    "fonte": "OpenStreetMap/Photon"
+  },
+  "jardim claret": {
+    "latitude": -22.413562,
+    "longitude": -47.572781,
+    "consulta": "Jardim Claret, Rio Claro, São Paulo, Brasil",
+    "resultado_osm": "Cidade Claret, Jardim Centenário, Rio Claro",
+    "fonte": "OpenStreetMap/Photon"
+  },
+  "jardim conduta": {
+    "latitude": -22.427125,
+    "longitude": -47.548812,
+    "consulta": "Jardim Conduta, Rio Claro, São Paulo, Brasil",
+    "resultado_osm": "Jardim Conduta, Dona Angela, Rio Claro",
+    "fonte": "OpenStreetMap/Photon"
+  },
+  "jardim das nacoes i": {
+    "latitude": -22.448108,
+    "longitude": -47.588218,
+    "consulta": "Jardim das Nações I, Rio Claro, São Paulo, Brasil",
+    "resultado_osm": "Jardim das Nações I, Jardim Nova Rio Claro, Rio Claro",
+    "fonte": "OpenStreetMap/Photon"
+  },
+  "jardim floridiana": {
+    "latitude": -22.382515,
+    "longitude": -47.558641,
+    "consulta": "Avenida M 25, Jardim Floridiana, Rio Claro, São Paulo, Brasil",
+    "resultado_osm": "Floridiana Tênis Clube, Avenida Um Jf, Jardim Floridiana, Rio Claro",
+    "fonte": "OpenStreetMap/Photon"
+  },
+  "jardim guanabara": {
+    "latitude": -22.43664,
+    "longitude": -47.580683,
+    "consulta": "Jardim Guanabara, Rio Claro, São Paulo, Brasil",
+    "resultado_osm": "Jardim Guanabara, Jardim Nova Rio Claro, Rio Claro",
+    "fonte": "OpenStreetMap/Photon"
+  },
+  "jardim esmeralda": {
+    "latitude": -22.410704,
+    "longitude": -47.562723,
+    "consulta": "Jardim Esmeralda, Rio Claro, São Paulo, Brasil",
+    "resultado_osm": "Ótica Esmeralda, Av. 1, Cidade Nova, Rio Claro",
+    "fonte": "OpenStreetMap/Photon"
+  },
+  "jardim guanabara ii": {
+    "latitude": -22.438289,
+    "longitude": -47.57849,
+    "consulta": "Jardim Guanabara II, Rio Claro, São Paulo, Brasil",
+    "resultado_osm": "Jardim Guanabara II, Jardim Nova Rio Claro, Rio Claro",
+    "fonte": "OpenStreetMap/Photon"
+  },
+  "jardim independencia": {
+    "latitude": -22.381876,
+    "longitude": -47.564076,
+    "consulta": "Rua M 11, Jardim Independência, Rio Claro, São Paulo, Brasil",
+    "resultado_osm": "Centro de Referência de Assistência Social Independência, Rua M 7, Jardim Hipódromo, Rio Claro",
+    "fonte": "OpenStreetMap/Photon"
+  },
+  "jardim hipodromo": {
+    "latitude": -22.382063,
+    "longitude": -47.564251,
+    "consulta": "Jardim Hipódromo, Rio Claro, São Paulo, Brasil",
+    "resultado_osm": "Jardim Hipódromo, Santana, Rio Claro",
+    "fonte": "OpenStreetMap/Photon"
+  },
+  "jardim nova rio claro": {
+    "latitude": -22.43114,
+    "longitude": -47.598056,
+    "consulta": "Rua 25 NR, Jardim Nova Rio Claro, Rio Claro, São Paulo, Brasil",
+    "resultado_osm": "Rua Vinte e Cinco Nr, Jardim Nova Rio Claro, Rio Claro",
+    "fonte": "OpenStreetMap/Photon"
+  },
+  "jardim inocoop": {
+    "latitude": -22.427094,
+    "longitude": -47.577239,
+    "consulta": "Jardim INOCOOP, Rio Claro, São Paulo, Brasil",
+    "resultado_osm": "Jardim Inocoop, Jardim Centenário, Rio Claro",
+    "fonte": "OpenStreetMap/Photon"
+  },
+  "jardim leblon": {
+    "latitude": -22.43501,
+    "longitude": -47.55862,
+    "consulta": "Jardim Leblon, Rio Claro, São Paulo, Brasil",
+    "resultado_osm": "Praça Jardim Leblon, Dona Angela, Rio Claro",
+    "fonte": "OpenStreetMap/Photon"
+  },
+  "jardim ipanema (expansao)": {
+    "latitude": -22.37965,
+    "longitude": -47.576329,
+    "consulta": "Jardim Ipanema (Expansão), Rio Claro, São Paulo, Brasil",
+    "resultado_osm": "Jardim Ipanema, Jardim Panorama, Rio Claro",
+    "fonte": "OpenStreetMap/Photon"
+  },
+  "jardim maria cristina": {
+    "latitude": -22.416252,
+    "longitude": -47.59007,
+    "consulta": "Jardim Maria Cristina, Rio Claro, São Paulo, Brasil",
+    "resultado_osm": "Jardim Maria Cristina, Jardim Centenário, Rio Claro",
+    "fonte": "OpenStreetMap/Photon"
+  },
+  "jardim novo": {
+    "latitude": -22.451416,
+    "longitude": -47.578269,
+    "consulta": "Avenida 1 JN, Jardim Novo, Rio Claro, São Paulo, Brasil",
+    "resultado_osm": "Avenida 1 JN, Rio Claro, Rio Claro",
+    "fonte": "OpenStreetMap/Photon"
+  },
+  "jardim novo ii": {
+    "latitude": -22.447299,
+    "longitude": -47.585395,
+    "consulta": "Rua 19 JN, Jardim Novo II, Rio Claro, São Paulo, Brasil",
+    "resultado_osm": "Rua 19 JN, Jardim Nova Rio Claro, Rio Claro",
+    "fonte": "OpenStreetMap/Photon"
+  },
+  "jardim panorama": {
+    "latitude": -22.387273,
+    "longitude": -47.592727,
+    "consulta": "Avenida 60 PA, Jardim Panorama, Rio Claro, São Paulo, Brasil",
+    "resultado_osm": "Avenida 60 PA, Jardim Panorama, Rio Claro",
+    "fonte": "OpenStreetMap/Photon"
+  },
+  "jardim parque residencial": {
+    "latitude": -22.374503,
+    "longitude": -47.551269,
+    "consulta": "Avenida 84 A, Jardim Parque Residencial, Rio Claro, São Paulo, Brasil",
+    "resultado_osm": "Condomínio Parque das Árvores, Avenida 84 A, Jardim Parque Residencial, Rio Claro",
+    "fonte": "OpenStreetMap/Photon"
+  },
+  "jardim paulista ii": {
+    "latitude": -22.419724,
+    "longitude": -47.582571,
+    "consulta": "Rua 25, Jardim Paulista II, Rio Claro, São Paulo, Brasil",
+    "resultado_osm": "Residencial Jardim Paulista, Rua 30, Jardim Paulista, Rio Claro",
+    "fonte": "OpenStreetMap/Photon"
+  },
+  "jardim olinda": {
+    "latitude": -22.387804,
+    "longitude": -47.57682,
+    "consulta": "Jardim Olinda, Rio Claro, São Paulo, Brasil",
+    "resultado_osm": "Jardim Olinda, Jardim  Bela Vista, Rio Claro",
+    "fonte": "OpenStreetMap/Photon"
+  },
+  "jardim primavera": {
+    "latitude": -22.374532,
+    "longitude": -47.550355,
+    "consulta": "Avenida 46, Jardim Primavera, Rio Claro, São Paulo, Brasil",
+    "resultado_osm": "Condominio Residencial Primavera, Avenida 80 A, Distrito Indústrial, Rio Claro",
+    "fonte": "OpenStreetMap/Photon"
+  },
+  "jardim paulista": {
+    "latitude": -22.418387,
+    "longitude": -47.582107,
+    "consulta": "Jardim Paulista, Rio Claro, São Paulo, Brasil",
+    "resultado_osm": "Jardim Paulista, Jardim Centenário, Rio Claro",
+    "fonte": "OpenStreetMap/Photon"
+  },
+  "jardim residencial das palmeiras": {
+    "latitude": -22.441312,
+    "longitude": -47.582215,
+    "consulta": "Avenida dos Costas, Jardim Residencial das Palmeiras, Rio Claro, São Paulo, Brasil",
+    "resultado_osm": "Condomínio Residencial Reserva das Palmeiras, Estrada dos Costas, Jardim Residencial das Palmeiras, Rio Claro",
+    "fonte": "OpenStreetMap/Photon"
+  },
+  "jardim residencial santa eliza": {
+    "latitude": -22.397356,
+    "longitude": -47.589656,
+    "consulta": "Rua 26 SE, Jardim Residencial Santa Eliza, Rio Claro, São Paulo, Brasil",
+    "resultado_osm": "Rua 26 SE, Jardim Residencial Santa Eliza, Rio Claro",
+    "fonte": "OpenStreetMap/Photon"
+  },
+  "jardim portugal": {
+    "latitude": -22.388612,
+    "longitude": -47.567909,
+    "consulta": "Jardim Portugal, Rio Claro, São Paulo, Brasil",
+    "resultado_osm": "Jardim Portugal, Santana, Rio Claro",
+    "fonte": "OpenStreetMap/Photon"
+  },
+  "jardim rio claro": {
+    "latitude": -22.421735,
+    "longitude": -47.573688,
+    "consulta": "Rua 21, Jardim Rio Claro, Rio Claro, São Paulo, Brasil",
+    "resultado_osm": "Rua 21, Jardim Centenário, Rio Claro",
+    "fonte": "OpenStreetMap/Photon"
+  },
+  "jardim progresso": {
+    "latitude": -22.370357,
+    "longitude": -47.58158,
+    "consulta": "Jardim Progresso, Rio Claro, São Paulo, Brasil",
+    "resultado_osm": "Jardim Progresso II, Jardim Panorama, Rio Claro",
+    "fonte": "OpenStreetMap/Photon"
+  },
+  "jardim residencial sao jose": {
+    "latitude": -22.378777,
+    "longitude": -47.580672,
+    "consulta": "Avenida M 45, Jardim Residencial São José, Rio Claro, São Paulo, Brasil",
+    "resultado_osm": "Centro Municipal de Convivência Jardim São José, Avenida M Quarenta e Três, Jardim Panorama, Rio Claro",
+    "fonte": "OpenStreetMap/Photon"
+  },
+  "jardim santa maria": {
+    "latitude": -22.3793,
+    "longitude": -47.585139,
+    "consulta": "Rua 16, Jardim Santa Maria, Rio Claro, São Paulo, Brasil",
+    "resultado_osm": "Capela Santa Maria, Rua 15, Jardim Panorama, Rio Claro",
+    "fonte": "OpenStreetMap/Photon"
+  },
+  "jardim vilage": {
+    "latitude": -22.375229,
+    "longitude": -47.553697,
+    "consulta": "Avenida 80 A, Jardim Vilage, Rio Claro, São Paulo, Brasil",
+    "resultado_osm": "Condomínio Jardim Village, Avenida 80 A, Jardim Vilage, Rio Claro",
+    "fonte": "OpenStreetMap/Photon"
+  },
+  "jardim sao paulo": {
+    "latitude": -22.405803,
+    "longitude": -47.583585,
+    "consulta": "Jardim São Paulo, Rio Claro, São Paulo, Brasil",
+    "resultado_osm": "Reservatório Jardim São Paulo, Avenida Castelo Branco, Chácara Bom Retiro, Rio Claro",
+    "fonte": "OpenStreetMap/Photon"
+  },
+  "jardim wenzel": {
+    "latitude": -22.389035,
+    "longitude": -47.586693,
+    "consulta": "Jardim Wenzel, Rio Claro, São Paulo, Brasil",
+    "resultado_osm": "Jardim Wenzel, Jardim Panorama, Rio Claro",
+    "fonte": "OpenStreetMap/Photon"
+  },
+  "loteamento sebastiao dos santos lima": {
+    "latitude": -22.419528,
+    "longitude": -47.592795,
+    "consulta": "Loteamento Sebastião dos Santos Lima, Rio Claro, São Paulo, Brasil",
+    "resultado_osm": "Loteamento Sebastião dos Santos Lima, Jardim Centenário, Rio Claro",
+    "fonte": "OpenStreetMap/Photon"
+  },
+  "parque mae preta": {
+    "latitude": -22.374261,
+    "longitude": -47.54188,
+    "consulta": "Avenida 1 MP, Parque Mãe Preta, Rio Claro, São Paulo, Brasil",
+    "resultado_osm": "Avenida 1 MP, Parque Mãe Preta, Rio Claro",
+    "fonte": "OpenStreetMap/Photon"
+  },
+  "novo jardim wenzel": {
+    "latitude": -22.404386,
+    "longitude": -47.602672,
+    "consulta": "Novo Jardim Wenzel, Rio Claro, São Paulo, Brasil",
+    "resultado_osm": "Novo Jardim Wenzel, Jardim Residencial Santa Eliza, Rio Claro",
+    "fonte": "OpenStreetMap/Photon"
+  },
+  "parque universitario": {
+    "latitude": -22.393264,
+    "longitude": -47.579142,
+    "consulta": "Rua 17, Parque Universitário, Rio Claro, São Paulo, Brasil",
+    "resultado_osm": "Praça do Parque Universitário, Jardim  Bela Vista, Rio Claro",
+    "fonte": "OpenStreetMap/Photon"
+  },
+  "residencial bosques de rio claro": {
+    "latitude": -22.381236,
+    "longitude": -47.580161,
+    "consulta": "Rua 8 BRC, Residencial Bosques de Rio Claro, Rio Claro, São Paulo, Brasil",
+    "resultado_osm": "Rua 8 BRC, Jardim Panorama, Rio Claro",
+    "fonte": "OpenStreetMap/Photon"
+  },
+  "parque residencial brasilia": {
+    "latitude": -22.433514,
+    "longitude": -47.580529,
+    "consulta": "Parque Residencial Brasília, Rio Claro, São Paulo, Brasil",
+    "resultado_osm": "Parque Residencial Brasília, Jardim Nova Rio Claro, Rio Claro",
+    "fonte": "OpenStreetMap/Photon"
+  },
+  "santana": {
+    "latitude": -22.400505,
+    "longitude": -47.573666,
+    "consulta": "Rua Samambaia, Santana, Rio Claro, São Paulo, Brasil",
+    "resultado_osm": "Rua Samambaia, Santana, Rio Claro",
+    "fonte": "OpenStreetMap/Photon"
+  },
+  "residencial das flores": {
+    "latitude": -22.367138,
+    "longitude": -47.563139,
+    "consulta": "Avenida M 51, Residencial das Flores, Rio Claro, São Paulo, Brasil",
+    "resultado_osm": "CONDOMINIO VILLA DAS FLORES RESIDENCIAL, AVENIDA 3A VS, VILAS DO SOBRADO, Rio Claro",
+    "fonte": "OpenStreetMap/Photon"
+  },
+  "recanto das pedras (assistencia)": {
+    "latitude": -22.429726,
+    "longitude": -47.582287,
+    "consulta": "Recanto das Pedras (Assistência), Rio Claro, São Paulo, Brasil",
+    "resultado_osm": "Cellshop Assistência Técnica, Avenida 7 JP, Jardim das Palmeiras, Rio Claro",
+    "fonte": "OpenStreetMap/Photon"
+  },
+  "saude": {
+    "latitude": -22.415182,
+    "longitude": -47.550615,
+    "consulta": "Avenida 17, Saúde, Rio Claro, São Paulo, Brasil",
+    "resultado_osm": "Avenida P 17, Saúde, Rio Claro",
+    "fonte": "OpenStreetMap/Photon"
+  },
+  "vila bela vista": {
+    "latitude": -22.396931,
+    "longitude": -47.549861,
+    "consulta": "Rua 14 B, Vila Bela Vista, Rio Claro, São Paulo, Brasil",
+    "resultado_osm": "Rua Onze B, Bela Vista, Rio Claro",
+    "fonte": "OpenStreetMap/Photon"
+  },
+  "vila do radio": {
+    "latitude": -22.413257,
+    "longitude": -47.568414,
+    "consulta": "Rua 13, Vila do Rádio, Rio Claro, São Paulo, Brasil",
+    "resultado_osm": "Travessa do Radio, Dona Angela, Rio Claro",
+    "fonte": "OpenStreetMap/Photon"
+  },
+  "vila alema": {
+    "latitude": -22.39597,
+    "longitude": -47.556396,
+    "consulta": "Vila Alemã, Rio Claro, São Paulo, Brasil",
+    "resultado_osm": "Vila Alemã, Bela Vista, Rio Claro",
+    "fonte": "OpenStreetMap/Photon"
+  },
+  "vila aparecida": {
+    "latitude": -22.398077,
+    "longitude": -47.562704,
+    "consulta": "Vila Aparecida, Rio Claro, São Paulo, Brasil",
+    "resultado_osm": "Vila Aparecida, Santana, Rio Claro",
+    "fonte": "OpenStreetMap/Photon"
+  },
+  "vila cristina": {
+    "latitude": -22.384317,
+    "longitude": -47.550393,
+    "consulta": "Vila Cristina, Rio Claro, São Paulo, Brasil",
+    "resultado_osm": "Vila Cristina, Bela Vista, Rio Claro",
+    "fonte": "OpenStreetMap/Photon"
+  },
+  "vila nova": {
+    "latitude": -22.410967,
+    "longitude": -47.55888,
+    "consulta": "Rua 9 A, Vila Nova, Rio Claro, São Paulo, Brasil",
+    "resultado_osm": "Grupo Ginástico Rio Clarense, Rua 2, Centro, Rio Claro",
+    "fonte": "OpenStreetMap/Photon"
+  },
+  "vila operaria": {
+    "latitude": -22.387629,
+    "longitude": -47.569672,
+    "consulta": "Rua 4, Vila Operária, Rio Claro, São Paulo, Brasil",
+    "resultado_osm": "Rua 4, Vila Operária, Rio Claro",
+    "fonte": "OpenStreetMap/Photon"
+  },
+  "vila paulista": {
+    "latitude": -22.395757,
+    "longitude": -47.544136,
+    "consulta": "Avenida P 13, Vila Paulista, Rio Claro, São Paulo, Brasil",
+    "resultado_osm": "Universidade Estadual Paulista, Avenida Vinte e Quatro A, Bela Vista, Rio Claro",
+    "fonte": "OpenStreetMap/Photon"
+  },
+  "vila martins": {
+    "latitude": -22.387728,
+    "longitude": -47.558985,
+    "consulta": "Vila Martins, Rio Claro, São Paulo, Brasil",
+    "resultado_osm": "Vila Martins, Bela Vista, Rio Claro",
+    "fonte": "OpenStreetMap/Photon"
+  },
+  "vila saibreiro": {
+    "latitude": -22.389419,
+    "longitude": -47.562255,
+    "consulta": "Rua Saibreiro 1, Vila Saibreiro, Rio Claro, São Paulo, Brasil",
+    "resultado_osm": "Rua Saibreiro Três, Santana, Rio Claro",
+    "fonte": "OpenStreetMap/Photon"
+  },
+  "zona central": {
+    "latitude": -22.413163,
+    "longitude": -47.559733,
+    "consulta": "Rua 7, Zona Central, Rio Claro, São Paulo, Brasil",
+    "resultado_osm": "Rua 4, Zona Central, Rio Claro",
+    "fonte": "OpenStreetMap/Photon"
+  },
+  "vila sao miguel": {
+    "latitude": -22.386417,
+    "longitude": -47.542546,
+    "consulta": "Vila São Miguel, Rio Claro, São Paulo, Brasil",
+    "resultado_osm": "Ecoponto São Miguel, Avenida Ulysses Guimarães, Vila Paulista, Rio Claro",
+    "fonte": "OpenStreetMap/Photon"
+  }
+}
